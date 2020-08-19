@@ -54,7 +54,7 @@ needed and significant changes will be announced in class.
 | Class 15         | 9/24 | Surfactants |         |               |                            |
 
 ## Additional Resources  
-See these additonal links for more in depth explanations of important topics  
-**Moving around in Terminal**: https://swcarpentry.github.io/shell-novice/  
+See these additonal links for more in depth explanations of important topics:  
+**Working with your terminal**: https://swcarpentry.github.io/shell-novice/  
 **Python**: https://swcarpentry.github.io/python-novice-inflammation/  
 **Github**: http://swcarpentry.github.io/git-novice/  
