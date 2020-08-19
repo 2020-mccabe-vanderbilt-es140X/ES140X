@@ -6,3 +6,4 @@ traitlets
 jupyter
 pandas
 pathlib
+scikit-learn
