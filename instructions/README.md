@@ -23,11 +23,12 @@ If you do not have a GitHub account, access https://github.com/ and click the â€
 <br />
 <br />
 <br />
-  
+
 ## Watch videos on Brightspace
-  
-  
-  
+<br />
+<br />
+<br />
+
 ## How to open your terminal
 
 #### MacOS
@@ -46,7 +47,7 @@ You can open the terminal application on Linux by either:
   <br />
   <br />
   <br />
-  
+
 ## Set up your Anaconda environment
 
 Anaconda is a free, open-source distribution of the Python and R programming language for scientific computing, that aims to simplify package management and deployment. In this class, we will use Anaconda to manage our Python environment. Below are short instructions to set up the Anaconda software for Mac, Linux, and Windows (using Windows Subsystem for Linux or WSL)
@@ -80,7 +81,7 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
   <br />
   <br />
   <br />
-  
+
 ## Access an assignment or class in Jupyter
 
 1. Use the `cd` command to navigate to the ES140X directory.
@@ -91,7 +92,7 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
   <br />
   <br />
   <br />
-  
+
 ## Set up Windows Subsystems for Linux 
 
 For Windows machine, we recommend students to use the Windows Subsystems for Linux (WSL). The following link may provide additional information if the steps below give you trouble   https://docs.microsoft.com/en-us/windows/wsl/install-win10  
