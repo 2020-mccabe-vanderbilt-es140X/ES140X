@@ -7,8 +7,9 @@ in this class, ES140X: Introduction to Engineering.
 - [Watch videos on Brightspace](#watch-videos-on-brightspace)
 - [How to open your terminal](#how-to-open-your-terminal)
 - [Set up your Anaconda environment](#set-up-your-anaconda-environment)
-- [Accessing an assignment or class in Jupyter notebook](#accessing-an-assignment-or-class-in-jupyter)
+- [Access an assignment or class in Jupyter](#access-an-assignment-or-class-in-jupyter)
 - [Set up Windows Subsystems for Linux](#set-up-windows-subsystems-for-linux)
+
 
 
 ## Create your GitHub account
@@ -24,28 +25,30 @@ If you do not have a GitHub account, access https://github.com/ and click the �
 ## Watch videos on Brightspace
 
 
+
 ## How to open your terminal
 
-### MacOS
+#### MacOS
 You can open the terminal application on MacOS by either:
 1. Use Spotlight search: press “Command + Space” and search for “terminal”
 2. Open Launchpad and look for the “Terminal” app
 
-### Linux 
+#### Linux 
 You can open the terminal application on Linux by either:
 1. Press “Ctrl+Alt+T”
 2. Search for “terminal” 
 
-### Windows
+#### Windows
 0.  For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).
 1. Once you log into your WSL, you will be automatiaclly put in a terminal.
+
 
 
 ## Set up your Anaconda environment
 
 Anaconda is a free, open-source distribution of the Python and R programming language for scientific computing, that aims to simplify package management and deployment. In this class, we will use Anaconda to manage our Python environment. Below are short instructions to set up the Anaconda software for Mac, Linux, and Windows (using Windows Subsystem for Linux or WSL)
 
-### MacOS  
+#### MacOS  
 1. Download miniconda from:   
     https://docs.conda.io/en/latest/miniconda.html   
     (Select the correct installer for **Python 3.8, 64-bit pkg**)
@@ -60,9 +63,8 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
 **Note:** You will need this command whenever starting up a new terminal to access the class materias
 
 
-### Linux and Windows (Windows Subsystem for Linux)
-0.   For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).
-
+#### Linux and Windows (Windows Subsystem for Linux)
+0.   For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).  
 1. Go to this link https://docs.conda.io/en/latest/miniconda.html and select the correct installer for Python 3.8 with 32-bit or 64-bit depends on your computer (use this link if you are unsure https://itsfoss.com/32-bit-64-bit-ubuntu/)
 2. Right click on the correct version and select “Copy link address”
 3. Open your terminal and download the file with the copied link  
@@ -74,13 +76,15 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
 6. Follow the same instruction for MacOS starting from step 3. 
 
 
-## Accessing an assignment or class in Jupyter notebook
+
+## Access an assignment or class in Jupyter
 
 1. Use the `cd` command to navigate to the ES140X directory.
 2. Use the `ls` command to view all of the files in that directory.
-3. `cd` into the cloned assignment you wish to open. If you don’t see the assignment on your local machine, watch the classroom_walkthrough.mp4 video on how to access that.
+3. `cd` into the cloned assignment you wish to open. If you don’t see the assignment on your local machine, watch the `classroom_walkthrough.mp4` video on how to access that.
 4. Type `jupyter notebook` into your terminal
 5. The jupyter notebook will be open as one tab in your default browser  
+
 
 
 ## Set up Windows Subsystems for Linux 
