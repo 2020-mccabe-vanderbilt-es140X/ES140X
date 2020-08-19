@@ -21,7 +21,7 @@ https://vanderbilt.zoom.us/j/5519036202
 
 To effectively participate in this class effectively, students will need to create a GitHub account 
 and set up an Anaconda environment in their computer. The detailed instructions for those 
-can be found [here](instructions)
+can be found [here](instructions).
 
 
 ## Lectures
@@ -40,7 +40,7 @@ needed and significant changes will be announced in class.
 | Class 4          | 8/27 |              |         |               |                            |
 | Class 5         | 8/29 |              |         |               |                            |
 | Class 6          | 8/31 |              |         |               |                            |
-| **Week 3**     |         | Thermodynamics |         |               |                            |
+| **Week 3**     |         | **Thermodynamics** |         |               |                            |
 | Class 7          | 9/03 | Ideal gas las  |         |               |                            |
 | Class 8          | 9/05 | Non-ideal gases|         |               |                            |
 | Class 9          | 9/07 | Solids, liquids, and gases |         |               |                            |
@@ -48,13 +48,13 @@ needed and significant changes will be announced in class.
 | Class 10         | 9/10 |              |         |               |                            |
 | Class 11         | 9/12 |              |         |               |                            |
 | Class 12         | 9/14 |              |         |               |                            |
-| **Week 5**     |         | Applications |         |               |                            |
+| **Week 5**     |         | **Applications** |         |               |                            |
 | Class 13         | 9/17 | Polymers |         |               |                            |
 | Class 14         | 9/19 | Phase Separation and Self Assembly|         |               |                            |
 | Class 15         | 9/21 | Surfactants |         |               |                            |
 
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics  
-Operating in the Terminal: https://swcarpentry.github.io/shell-novice/  
-Python: https://swcarpentry.github.io/python-novice-inflammation/  
-Github: http://swcarpentry.github.io/git-novice/  
+**Moving around in Terminal**: https://swcarpentry.github.io/shell-novice/  
+**Python**: https://swcarpentry.github.io/python-novice-inflammation/  
+**Github**: http://swcarpentry.github.io/git-novice/  
