@@ -60,19 +60,15 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
     https://docs.conda.io/en/latest/miniconda.html   
     (Select the correct installer for **Python 3.8, 64-bit pkg**)
 2. Install miniconda from the downloaded file  
-3. In your terminal, clone and change into the ES140X directory (where the `requirements.txt` file is located)  
+3. In your terminal, clone and change into the ES140X directory (where the `environment.yml` file is located)  
 4. If you don’t know how to do this, make sure you watch the video labeled `classroom_walkthrough.mp4` from Brightspace before continuing.
 5. Create and activate a new conda environment by typing in the terminal window:
-    `conda create --name class37 python=3.7 -y`  
+    `conda env create -f environment.yml`  
     If prompted you may need to update your conda environment and rerun the above commands.
 6. When the command has successfully executed then type:  
     `conda activate class37`   
 **Note:** You will need this command whenever starting up a new terminal to access the class materias
 
-7. Add relevant channels to find the packages we need to access:  
-    `conda config --add channels conda-forge`
-8. Install the packages in the requirement file using   
-    `conda install --file requirements.txt -y`
 
 #### Linux and Windows (Windows Subsystem for Linux)
 0.   For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction in the Windows section of the “How to open your terminal” above
