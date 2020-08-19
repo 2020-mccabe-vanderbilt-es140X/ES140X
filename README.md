@@ -46,8 +46,8 @@ Below is the tentative schedule with link to the Zoom classroom
 | Class 14         | 9/19 | Phase Separation and Self Assembly|         |               |                            |
 | Class 15         | 9/21 | Surfactants |         |               |                            |
 
-## Additional Resources
-See these additonal links for more in depth explanations of important topics
-Operating in the Terminal: https://swcarpentry.github.io/shell-novice/
-Python: https://swcarpentry.github.io/python-novice-inflammation/
-Github: http://swcarpentry.github.io/git-novice/
+## Additional Resources  
+See these additonal links for more in depth explanations of important topics  
+Operating in the Terminal: https://swcarpentry.github.io/shell-novice/  
+Python: https://swcarpentry.github.io/python-novice-inflammation/  
+Github: http://swcarpentry.github.io/git-novice/  
