@@ -26,9 +26,9 @@ Below is the tentative schedule with link to the Zoom classroom
 |                       | Date | Lecture | HW | HW Due | Zoom classroom |
 | --------------- |-------|----------|------|-----------|--------------------|
 | **Week 1**     |         |Instroduction|         |               |                            |
-| Class 1          | 8/24 | Jupyter notebook and Python |         |               |                            |
+| Class 1          | 8/24 | Jupyter notebook and Python | HWK1 |               |                            |
 | Class 2          | 8/26 | Setup your machine |         |               |                            |
-| Class 3          | 8/28 | Python Practices |         |               |                            |
+| Class 3          | 8/28 | Python Practices | HWK2 | HWK1 |                           |
 | **Week 2**     |         | In-person classes |         |               |                            |
 | Class 4          | 8/27 |              |         |               |                            |
 | Class 5         | 8/29 |              |         |               |                            |
@@ -46,3 +46,8 @@ Below is the tentative schedule with link to the Zoom classroom
 | Class 14         | 9/19 | Phase Separation and Self Assembly|         |               |                            |
 | Class 15         | 9/21 | Surfactants |         |               |                            |
 
+## Additional Resources
+See these additonal links for more in depth explanations of important topics
+Operating in the Terminal: https://swcarpentry.github.io/shell-novice/
+Python: https://swcarpentry.github.io/python-novice-inflammation/
+Github: http://swcarpentry.github.io/git-novice/
