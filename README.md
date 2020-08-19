@@ -17,15 +17,22 @@ Email: nicholas.c.craven@vanderbilt.edu
 Monday and Friday 11 - 12 and by appointment  
 https://vanderbilt.zoom.us/j/5519036202
 
+## Set up instructions
+
+To effectively participate in this class effectively, students will need to create a GitHub account 
+and set up an Anaconda environment in their computer. The detailed instructions for those 
+can be found [here](instructions)
+
 
 ## Lectures
 
 Below is the tentative schedule with link to the Zoom classroom 
-(**refresh this page to view the latest changes**). The schedule will be updated when needed and significant changes will be announced in class.
+(**refresh this page to view the latest changes**). The schedule will be updated when
+needed and significant changes will be announced in class.
 
 |                       | Date | Lecture | HW | HW Due | Zoom classroom |
-| --------------- |-------|----------|------|-----------|--------------------|
-| **Week 1**     |         |Instroduction|         |               |                            |
+| :--------------- |:-------:|:----------:|:------:|:-----------:|:--------------------|
+| **Week 1**     |         |**Introduction**|         |               |                            |
 | Class 1          | 8/24 | Jupyter notebook and Python | HWK1 |               |                            |
 | Class 2          | 8/26 | Setup your machine |         |               |                            |
 | Class 3          | 8/28 | Python Practices | HWK2 | HWK1 |                           |
