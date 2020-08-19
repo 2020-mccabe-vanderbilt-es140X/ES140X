@@ -9,9 +9,10 @@ in this class, ES140X: Introduction to Engineering.
 - [Set up your Anaconda environment](#set-up-your-anaconda-environment)
 - [Access an assignment or class in Jupyter](#access-an-assignment-or-class-in-jupyter)
 - [Set up Windows Subsystems for Linux](#set-up-windows-subsystems-for-linux)
-  
-  
-  
+<br />
+<br />
+<br />
+
 ## Create your GitHub account
 
 Git is a distributed version-control system for tracking changes in sources code during software development. It is designed for coordinating work and can be used to track changes in any set of files. GitHub is a company (owned by Microsoft) that provides hosting service for software development and version control using Git. Git and GitHub are independent identities.  
@@ -19,8 +20,9 @@ Git is a distributed version-control system for tracking changes in sources code
 All the materials for this class, including assignments, will be hosted on GitHub and use Git to track all the changes. Hence, you will need to have a GitHub account to participate in activities in this course. 
 
 If you do not have a GitHub account, access https://github.com/ and click the “Sign Up” button on the top right of the page. You should be able to create an account by following the instructions from that site. Once you have created the account, please email Professor McCabe (c.mccabe@vanderbilt.edu) and the TA (nicholas.c.craven@Vanderbilt.Edu) your GitHub username so we can add you to the class. 
-  
-  
+<br />
+<br />
+<br />
   
 ## Watch videos on Brightspace
   
@@ -41,8 +43,9 @@ You can open the terminal application on Linux by either:
 #### Windows
 0.  For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).
 1. Once you log into your WSL, you will be automatiaclly put in a terminal.
-  
-  
+  <br />
+  <br />
+  <br />
   
 ## Set up your Anaconda environment
 
@@ -74,8 +77,9 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
     `bash <The file you just download>`
 5. Restart your kernel and type `conda --version` to make sure the installation finishes. 
 6. Follow the same instruction for MacOS starting from step 3.
-  
-  
+  <br />
+  <br />
+  <br />
   
 ## Access an assignment or class in Jupyter
 
@@ -84,8 +88,9 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
 3. `cd` into the cloned assignment you wish to open. If you don’t see the assignment on your local machine, watch the `classroom_walkthrough.mp4` video on how to access that.
 4. Type `jupyter notebook` into your terminal
 5. The jupyter notebook will be open as one tab in your default browser  
-  
-  
+  <br />
+  <br />
+  <br />
   
 ## Set up Windows Subsystems for Linux 
 
