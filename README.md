@@ -23,13 +23,17 @@ https://vanderbilt.zoom.us/j/5519036202
 To effectively participate in this class effectively, students will need to create a GitHub account 
 and set up an Anaconda environment in their computer. The detailed instructions for those 
 can be found [here](instructions). 
-We strongly encourage student to create a GitHub account following this [instruction](instructions/README.md#create-your-github-account) and join the GitHub classroom following this [link](link).
+We strongly encourage student to create a GitHub account following this [instruction](instructions/README.md#create-your-github-account) and join the GitHub classroom following this [link](link) before first day of class.
+Remember to email your GitHub username to Dr. M<sup>c</sup>Cabe and Cal Craven (TA).
 
 ## Lectures
 
 Below is the tentative schedule with link to the Zoom classroom 
 (**refresh this page to view the latest changes**). The schedule will be updated when
 needed and significant changes will be announced in class.
+
+**Note**: The first link for the Zoom classroom will be sent along with the email from Dr. M<sup>c</sup>Cabe.
+Once this page is made only accessible to students in this course, the Zoom classroom links will be updated below. 
 
 |                       | Date | Lecture | HW | HW Due | Zoom classroom |
 | :--------------- |:-------:|:----------:|:------:|:-----------:|:--------------------|
