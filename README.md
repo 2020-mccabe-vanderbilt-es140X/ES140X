@@ -36,22 +36,22 @@ needed and significant changes will be announced in class.
 | Class 1          | 8/24 | Jupyter notebook and Python | HWK1 |               |                            |
 | Class 2          | 8/26 | Setup your machine |         |               |                            |
 | Class 3          | 8/28 | Python Practices | HWK2 | HWK1 |                           |
-| **Week 2**     |         | In-person classes |         |               |                            |
-| Class 4          | 8/27 |              |         |               |                            |
-| Class 5         | 8/29 |              |         |               |                            |
-| Class 6          | 8/31 |              |         |               |                            |
+| **Week 2**     |         | **In-person classes** |         |               |                            |
+| Class 4          | 8/31 |              |         |               |                            |
+| Class 5         | 9/02 |              |         |               |                            |
+| Class 6          | 9/04 |              |         |               |                            |
 | **Week 3**     |         | **Thermodynamics** |         |               |                            |
-| Class 7          | 9/03 | Ideal gas las  |         |               |                            |
-| Class 8          | 9/05 | Non-ideal gases|         |               |                            |
-| Class 9          | 9/07 | Solids, liquids, and gases |         |               |                            |
-| **Week 4**     |         | In-person classes |         |               |                            |
-| Class 10         | 9/10 |              |         |               |                            |
-| Class 11         | 9/12 |              |         |               |                            |
-| Class 12         | 9/14 |              |         |               |                            |
+| Class 7          | 9/07 | Ideal gas las  |         |               |                            |
+| Class 8          | 9/09 | Non-ideal gases|         |               |                            |
+| Class 9          | 9/11 | Solids, liquids, and gases |         |               |                            |
+| **Week 4**     |         | **In-person classes** |         |               |                            |
+| Class 10         | 9/14 |              |         |               |                            |
+| Class 11         | 9/16 |              |         |               |                            |
+| Class 12         | 9/18 |              |         |               |                            |
 | **Week 5**     |         | **Applications** |         |               |                            |
-| Class 13         | 9/17 | Polymers |         |               |                            |
-| Class 14         | 9/19 | Phase Separation and Self Assembly|         |               |                            |
-| Class 15         | 9/21 | Surfactants |         |               |                            |
+| Class 13         | 9/21 | Polymers |         |               |                            |
+| Class 14         | 9/23 | Phase Separation and Self Assembly|         |               |                            |
+| Class 15         | 9/24 | Surfactants |         |               |                            |
 
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics  
