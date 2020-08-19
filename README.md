@@ -15,7 +15,7 @@ Email: nicholas.c.craven@vanderbilt.edu
 
 **Office Hours** <br/> 
 Monday and Friday 11 - 12 and by appointment  
-Zoom link for weekly office hours
+https://vanderbilt.zoom.us/j/5519036202
 
 
 ## Lectures
