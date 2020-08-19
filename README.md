@@ -17,6 +17,7 @@ Email: nicholas.c.craven@vanderbilt.edu
 Monday and Friday 11 - 12 and by appointment  
 https://vanderbilt.zoom.us/j/5519036202
 
+
 ## Set up instructions
 
 To effectively participate in this class effectively, students will need to create a GitHub account 
@@ -33,15 +34,15 @@ needed and significant changes will be announced in class.
 |                       | Date | Lecture | HW | HW Due | Zoom classroom |
 | :--------------- |:-------:|:----------:|:------:|:-----------:|:--------------------|
 | **Week 1**     |         |**Introduction**|         |               |                            |
-| Class 1          | 8/24 | Jupyter notebook and Python | HWK1 |               |                            |
+| Class 1          | 8/24 | Jupyter notebook and Python | HW1 |               |                            |
 | Class 2          | 8/26 | Setup your machine |         |               |                            |
-| Class 3          | 8/28 | Python Practices | HWK2 | HWK1 |                           |
+| Class 3          | 8/28 | Python Practices | HW2 | HW1 |                           |
 | **Week 2**     |         | **In-person classes** |         |               |                            |
 | Class 4          | 8/31 |              |         |               |                            |
 | Class 5         | 9/02 |              |         |               |                            |
 | Class 6          | 9/04 |              |         |               |                            |
 | **Week 3**     |         | **Thermodynamics** |         |               |                            |
-| Class 7          | 9/07 | Ideal gas las  |         |               |                            |
+| Class 7          | 9/07 | Ideal gas law  |         |               |                            |
 | Class 8          | 9/09 | Non-ideal gases|         |               |                            |
 | Class 9          | 9/11 | Solids, liquids, and gases |         |               |                            |
 | **Week 4**     |         | **In-person classes** |         |               |                            |
@@ -53,8 +54,9 @@ needed and significant changes will be announced in class.
 | Class 14         | 9/23 | Phase Separation and Self Assembly|         |               |                            |
 | Class 15         | 9/24 | Surfactants |         |               |                            |
 
+
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics:  
-**Working with your terminal**: https://swcarpentry.github.io/shell-novice/  
-**Python**: https://swcarpentry.github.io/python-novice-inflammation/  
-**Github**: http://swcarpentry.github.io/git-novice/  
+- **Working with your terminal**: https://swcarpentry.github.io/shell-novice/  
+- **Introduction to Python**:         https://swcarpentry.github.io/python-novice-inflammation/  
+- **Introduction to Github**:          http://swcarpentry.github.io/git-novice/  
