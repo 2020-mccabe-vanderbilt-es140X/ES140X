@@ -10,8 +10,8 @@ in this class, ES140X: Introduction to Engineering.
 - [Access an assignment or class in Jupyter](#access-an-assignment-or-class-in-jupyter)
 - [Set up Windows Subsystems for Linux](#set-up-windows-subsystems-for-linux)
 \
-\
-\
+
+
 ## Create your GitHub account
 
 Git is a distributed version-control system for tracking changes in sources code during software development. It is designed for coordinating work and can be used to track changes in any set of files. GitHub is a company (owned by Microsoft) that provides hosting service for software development and version control using Git. Git and GitHub are independent identities.  
@@ -20,12 +20,12 @@ All the materials for this class, including assignments, will be hosted on GitHu
 
 If you do not have a GitHub account, access https://github.com/ and click the “Sign Up” button on the top right of the page. You should be able to create an account by following the instructions from that site. Once you have created the account, please email Professor McCabe (c.mccabe@vanderbilt.edu) and the TA (nicholas.c.craven@Vanderbilt.Edu) your GitHub username so we can add you to the class. 
 \
-\
-\
+
+
 ## Watch videos on Brightspace
 \
-\
-\
+
+
 ## How to open your terminal
 
 #### MacOS
@@ -42,8 +42,8 @@ You can open the terminal application on Linux by either:
 0.  For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).
 1. Once you log into your WSL, you will be automatiaclly put in a terminal.
 \
-\
-\
+
+
 ## Set up your Anaconda environment
 
 Anaconda is a free, open-source distribution of the Python and R programming language for scientific computing, that aims to simplify package management and deployment. In this class, we will use Anaconda to manage our Python environment. Below are short instructions to set up the Anaconda software for Mac, Linux, and Windows (using Windows Subsystem for Linux or WSL)
@@ -75,8 +75,8 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
 5. Restart your kernel and type `conda --version` to make sure the installation finishes. 
 6. Follow the same instruction for MacOS starting from step 3. 
 \
-\
-\
+
+
 ## Access an assignment or class in Jupyter
 
 1. Use the `cd` command to navigate to the ES140X directory.
@@ -85,8 +85,8 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
 4. Type `jupyter notebook` into your terminal
 5. The jupyter notebook will be open as one tab in your default browser  
 \
-\
-\
+
+
 ## Set up Windows Subsystems for Linux 
 
 For Windows machine, we recommend students to use the Windows Subsystems for Linux (WSL). The following link may provide additional information if the steps below give you trouble   https://docs.microsoft.com/en-us/windows/wsl/install-win10  
