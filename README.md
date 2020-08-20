@@ -14,8 +14,8 @@ Cal Craven
 Email: nicholas.c.craven@vanderbilt.edu
 
 **Office Hours** <br/> 
-Monday and Friday 11 - 12 and by appointment  
-https://vanderbilt.zoom.us/j/5519036202
+TBD and by appointment  
+Zoom Link to be posted
 <br />
 <br /> 
 
