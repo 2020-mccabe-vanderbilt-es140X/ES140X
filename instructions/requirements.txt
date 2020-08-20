@@ -1,9 +1,0 @@
-matplotlib
-numpy
-ipython
-scipy
-traitlets
-jupyter
-pandas
-pathlib
-scikit-learn

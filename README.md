@@ -16,15 +16,21 @@ Email: nicholas.c.craven@vanderbilt.edu
 **Office Hours** <br/> 
 Monday and Friday 11 - 12 and by appointment  
 https://vanderbilt.zoom.us/j/5519036202
+<br />
+<br /> 
 
+## Before coming to class
 
-## Set up instructions
+We strongly encourage every students to create a GitHub account (if you do not have one already) following this [instruction](instructions/README.md#create-your-github-account) and then join the GitHub classroom following this [link](link) before the first day of class.
+Please also email your GitHub username to Dr. M<sup>c</sup>Cabe and Cal Craven (TA).
+c
 
-To effectively participate in this class effectively, students will need to create a GitHub account 
-and set up an Anaconda environment in their computer. The detailed instructions for those 
-can be found [here](instructions). 
-We strongly encourage student to create a GitHub account following this [instruction](instructions/README.md#create-your-github-account) and join the GitHub classroom following this [link](link) before first day of class.
-Remember to email your GitHub username to Dr. M<sup>c</sup>Cabe and Cal Craven (TA).
+## Set up your computers
+
+To effectively participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
+The Anaconda environment will help manage all the software used in this course. 
+The detailed instructions for those can be found [here](instructions). 
+
 
 ## Lectures
 

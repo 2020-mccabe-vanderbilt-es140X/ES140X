@@ -19,12 +19,14 @@ Git is a distributed version-control system for tracking changes in sources code
 
 All the materials for this class, including assignments, will be hosted on GitHub and use Git to track all the changes. Hence, you will need to have a GitHub account to participate in activities in this course. 
 
-If you do not have a GitHub account, access https://github.com/ and click the “Sign Up” button on the top right of the page. You should be able to create an account by following the instructions from that site. Once you have created the account, please email Professor McCabe (c.mccabe@vanderbilt.edu) and the TA (nicholas.c.craven@Vanderbilt.Edu) your GitHub username so we can add you to the class. 
+If you do not have a GitHub account, access https://github.com/ and click the “Sign Up” button on the top right of the page. You should be able to create an account by following the instructions from that site. Once you have created the account, please email Professor M<sup>c</sup>Cabe (c.mccabe@vanderbilt.edu) and the TA (nicholas.c.craven@Vanderbilt.Edu) your GitHub username. 
 <br />
 <br />
 <br />
 
 ## Watch videos on Brightspace
+
+We have created a few videos to assist with some of the set up steps. The videos are hosted on Brightspace under the Videos section of this class. 
 <br />
 <br />
 <br />
@@ -48,6 +50,17 @@ You can open the terminal application on Linux by either:
   <br />
   <br />
 
+
+## Download this repository
+
+This repository contains software and files neccessary for this class, so we ask you to download this repository and put it in a location convienient for later reference. 
+We recommend you put this folder in you home directory using these commands   
+`cd $HOME`  
+`git clone https://github.com/2020-mccabe-vanderbilt-es140X/ES140X.git`
+<br />
+<br />
+<br />
+
 ## Set up your Anaconda environment
 
 Anaconda is a free, open-source distribution of the Python and R programming language for scientific computing, that aims to simplify package management and deployment. In this class, we will use Anaconda to manage our Python environment. Below are short instructions to set up the Anaconda software for Mac, Linux, and Windows (using Windows Subsystem for Linux or WSL)
@@ -57,7 +70,9 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
     https://docs.conda.io/en/latest/miniconda.html   
     (Select the correct installer for **Python 3.8, 64-bit pkg**)
 2. Install miniconda from the downloaded file  
-3. In your terminal, clone and change into the ES140X directory (where the `environment.yml` file is located)  
+3. In your terminal, download and change into this repository (ES140X).
+If you followed the above [instruction](#download-this-repository) and put this repository at your home directory, you can change into that folder by  
+`cd ~/ES140X`
 4. If you don’t know how to do this, make sure you watch the video labeled `classroom_walkthrough.mp4` from Brightspace before continuing.
 5. Create and activate a new conda environment by typing in the terminal window:
     `conda env create -f environment.yml`  
