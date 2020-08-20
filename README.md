@@ -21,8 +21,7 @@ https://vanderbilt.zoom.us/j/5519036202
 
 ## Before coming to class
 
-We strongly encourage every students to create a GitHub account (if you do not have one already) following this [instruction](instructions/README.md#create-your-github-account) and then join the GitHub classroom following this [link](link) before the first day of class.
-Please also email your GitHub username to Dr. M<sup>c</sup>Cabe and Cal Craven (TA).
+We strongly encourage every students to create a GitHub account (if you do not have one already) following this [instruction](instructions/README.md#create-your-github-account) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven).
 
 
 ## Set up your computers
