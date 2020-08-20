@@ -5,6 +5,7 @@ in this class, ES140X: Introduction to Engineering.
 
 - [Create your GitHub account](#create-your-github-account)
 - [Watch videos on Brightspace](#watch-videos-on-brightspace)
+- [Download this repository](#download-this-repository)
 - [How to open your terminal](#how-to-open-your-terminal)
 - [Set up your Anaconda environment](#set-up-your-anaconda-environment)
 - [Access an assignment or class in Jupyter](#access-an-assignment-or-class-in-jupyter)
@@ -53,8 +54,7 @@ You can open the terminal application on Linux by either:
 
 ## Download this repository
 
-This repository contains software and files neccessary for this class, so we ask you to download this repository and put it in a location convienient for later reference. 
-We recommend you put this folder in you home directory using these commands   
+This repository contains software and files neccessary for activities in this class, so we ask you to download this repository and put it in a location convienient for later reference. We recommend you put it in your home directory using the commands below:  
 `cd $HOME`  
 `git clone https://github.com/2020-mccabe-vanderbilt-es140X/ES140X.git`
 <br />

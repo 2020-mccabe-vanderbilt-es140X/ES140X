@@ -23,12 +23,12 @@ https://vanderbilt.zoom.us/j/5519036202
 
 We strongly encourage every students to create a GitHub account (if you do not have one already) following this [instruction](instructions/README.md#create-your-github-account) and then join the GitHub classroom following this [link](link) before the first day of class.
 Please also email your GitHub username to Dr. M<sup>c</sup>Cabe and Cal Craven (TA).
-c
+
 
 ## Set up your computers
 
 To effectively participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
-The Anaconda environment will help manage all the software used in this course. 
+The Anaconda environment will help manage all the softwares used in this course.
 The detailed instructions for those can be found [here](instructions). 
 
 
