@@ -1,0 +1,18 @@
+name: class37
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip
+  - matplotlib
+  - numpy
+  - pandas
+  - py3Dmol
+  - jupyterlab
+  - scikit-learn
+  - rise
+  - traitlets
+  - pathlib
+  - ipywidgets
+  - pip:
+    - chempy
