@@ -46,14 +46,14 @@ Once this page is made only accessible to students in this course, the Zoom clas
 | Class 1          | 8/24 | Jupyter notebook and Python | HW1 |               |                            |
 | Class 2          | 8/26 | Setup your machine |         |               |                            |
 | Class 3          | 8/28 | Python practices | HW2 | HW1 |                           |
-| **Week 2**     |         | **In-person classes** |         |               |                            |
-| Class 4          | 8/31 |              |         |               |                            |
-| Class 5         | 9/02 |              |         |               |                            |
-| Class 6          | 9/04 |              |         |               |                            |
-| **Week 3**     |         | **Intro to Thermodynamics** |         |               |                            |
-| Class 7          | 9/07 | Ideal gas law  |         |               |                            |
-| Class 8          | 9/09 | Non-ideal gases|         |               |                            |
-| Class 9          | 9/11 | Solids, liquids, and gases |         |               |                            |
+| **Week 2**     |         | **Intro to Thermodynamics**|         |               |                            |
+| Class 4          | 8/31 | Ideal gas law |         |               |                            |
+| Class 5          | 9/02 | Non-ideal gases |         |               |                            |
+| Class 6          | 9/04 | Solids, liquids, and gases |         |               |                            |
+| **Week 3**     |         | **In-person classes** |         |               |                            |
+| Class 7          | 9/07 |              |         |               |                            |
+| Class 8          | 9/09 |              |         |               |                            |
+| Class 9          | 9/11 |              |         |               |                            |
 | **Week 4**     |         | **Intro to Reaction Engineering** |         |               |                            |
 | Class 10         | 9/14 | Kinetics |         |               |                            |
 | Class 11         | 9/16 | Reaction rates and equilibria |         |               |                            |
