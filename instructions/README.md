@@ -1,4 +1,4 @@
-# Welcom to ES140X
+# Welcome to ES140X
 
 Below are set of instructions to help you effectively participate 
 in this class, ES140X: Introduction to Engineering. 

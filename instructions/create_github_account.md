@@ -1,6 +1,6 @@
 # Welcome to ES140X
 
-Below is the instruction to help you create a GitHub account before coming to class on Monday
+Below is the instruction to help you create a GitHub account before coming to class on Monday.
 
 
 ## Create your GitHub account
