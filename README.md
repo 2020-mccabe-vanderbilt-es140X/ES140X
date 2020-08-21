@@ -19,17 +19,16 @@ Zoom Link to be posted
 <br />
 <br /> 
 
-## Before coming to class
+## [Before coming to class](instructions/create_github_account.md)
 
-We strongly encourage every students to create a GitHub account (if you do not have one already) following this [instruction](instructions/README.md#create-your-github-account) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven).
+We strongly encourage every students to create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in the header. 
 
 
-## Set up your computers
+## [Set up your computers](instructions/set_up_your_computers.md)
 
 To effectively participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
 The Anaconda environment will help manage all the softwares used in this course.
-The detailed instructions for those can be found [here](instructions). 
-
+The detailed instructions for those can be found by following the link in the header.
 
 ## Lectures
 
