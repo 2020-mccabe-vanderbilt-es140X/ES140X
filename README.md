@@ -15,7 +15,7 @@ Email: nicholas.c.craven@vanderbilt.edu
 
 **Office Hours** <br/> 
 TBD and by appointment  
-Zoom Link to be posted
+Zoom can be found in Brightspace
 <br />
 <br /> 
 
@@ -32,34 +32,29 @@ The detailed instructions for those can be found by following the link in the he
 
 ## Lectures
 
-Below is the tentative schedule with link to the Zoom classroom 
-(**refresh this page to view the latest changes**). The schedule will be updated when
-needed and significant changes will be announced in class.
+The link to this course's Zoom classrooms can be found in Brightspace.
 
-**Note**: The first link for the Zoom classroom will be sent along with the email from Dr. M<sup>c</sup>Cabe.
-Once this page is made only accessible to students in this course, the Zoom classroom links will be updated below. 
-
-|                       | Date | Lecture | HW | HW Due | Zoom classroom |
-| :--------------- |:-------:|:----------:|:------:|:-----------:|:--------------------|
-| **Week 1**     |         |**Introduction**|         |               |                            |
-| Class 1          | 8/24 | Jupyter notebook and Python | HW1 |               |                            |
-| Class 2          | 8/26 | Setup your machine |         |               |                            |
-| Class 3          | 8/28 | Python practices | HW2 | HW1 |                           |
-| **Week 2**     |         | **Intro to Thermodynamics**|         |               |                            |
-| Class 4          | 8/31 | Ideal gas law |         |               |                            |
-| Class 5          | 9/02 | Non-ideal gases |         |               |                            |
-| Class 6          | 9/04 | Solids, liquids, and gases |         |               |                            |
-| **Week 3**     |         | **In-person classes** |         |               |                            |
-| Class 7          | 9/07 |              |         |               |                            |
-| Class 8          | 9/09 |              |         |               |                            |
-| Class 9          | 9/11 |              |         |               |                            |
-| **Week 4**     |         | **Intro to Reaction Engineering** |         |               |                            |
-| Class 10         | 9/14 | Kinetics |         |               |                            |
-| Class 11         | 9/16 | Reaction rates and equilibria |         |               |                            |
-| Class 12         | 9/18 | Mass and energy transport |         |               |                            |
-| **Week 5**     |         | **Applications** |         |               |                            |
-| Class 13         | 9/21 | Polymers |         |               |                            |
-| Class 14         | 9/23 | Phase Separation and Self Assembly|         |               |                            |
+|                       | Date | Lecture | HW | HW Due |
+| :--------------- |:-------:|:----------:|:------:|:-----------:|
+| **Week 1**     |         |**Introduction**|         |               |
+| Class 1          | 8/24 | Jupyter notebook and Python | HW1 |               |
+| Class 2          | 8/26 | Setup your machine |         |               |
+| Class 3          | 8/28 | Python practices | HW2 | HW1 |
+| **Week 2**     |         | **Intro to Thermodynamics**|         |               |
+| Class 4          | 8/31 | Ideal gas law |         |               |
+| Class 5          | 9/02 | Non-ideal gases |         |               |
+| Class 6          | 9/04 | Solids, liquids, and gases  | HW3 | HW2 |
+| **Week 3**     |         | **In-person classes** |         |               | 
+| Class 7          | 9/07 |              |         |               |
+| Class 8          | 9/09 |              |         |               |
+| Class 9          | 9/11 |              |         |               |
+| **Week 4**     |         | **Intro to Reaction Engineering** |         |               | 
+| Class 10         | 9/14 | Kinetics |         |               |
+| Class 11         | 9/16 | Reaction rates and equilibria |         |               |
+| Class 12         | 9/18 | Mass and energy transport |         |               |
+| **Week 5**     |         | **Applications** |         |               |
+| Class 13         | 9/21 | Polymers |         |               |
+| Class 14         | 9/23 | Phase Separation and Self Assembly|         |               |
 
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics:  
