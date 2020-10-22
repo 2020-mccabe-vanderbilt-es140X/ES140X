@@ -22,12 +22,13 @@ Zoom can be found in Brightspace
 ## [Before coming to class](instructions/create_github_account.md)
 
 Students should create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in the header. 
-<br>
+<br/>
 
 
 ## [Set up your computers](instructions/set_up_your_computers.md)
-Complete these instructions after your first class (10/28). <br>
-**note that this can take some time, so start earlier to catch bugs and get help from your TA** <br>
+Complete these instructions after your first class (10/28). <br/>
+**Be aware that this can take some time, so start earlier to catch bugs and get help from your TA** <br/>
+
 To effectively participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
 The Anaconda environment will help manage all the softwares used in this course.
 The detailed instructions for those can be found by following the link in the header.
