@@ -41,8 +41,8 @@ The link to this course's Zoom classrooms can be found in Brightspace.
 |                       | Date | Lecture | HW | HW Due |
 | :--------------- |:-------:|:----------:|:------:|:-----------:|
 | **Week 1**     |         |**Introduction**|         |               |
-| Class 1          | 10/28 | Intro to Jupyter notebook and Python | HW1 |               |
-| Class 2          | 10/30 | Python practices and examples|         |               |
+| Class 1          | 10/28 | Intro to Jupyter notebook and Python |    |               |
+| Class 2          | 10/30 | Python practices and examples|  HW1     |               |
 | **Week 2**     |         | **Intro to Thermodynamics**|         |               |
 | Class 3          | 11/02 | Ideal gas law |         |               |
 | Class 4          | 11/04 | Non-ideal gases |         |               |
