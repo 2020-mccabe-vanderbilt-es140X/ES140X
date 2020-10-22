@@ -16,7 +16,7 @@ in this class, ES140X: Introduction to Engineering.
 
 ## Watch videos on Brightspace
 
-We have created a few videos to assist with some of the set up steps. The videos are hosted on Brightspace under the Videos section of this class. 
+We have created a few videos to assist with some of the set up steps. The videos are hosted on Brightspace under the Videos section of this class. We recommend that you watch through the videos in order first to get an understanding of what you need to be doing here. Then, continue through this document and replicate what has been shown in the videos, using them as a second source.
 <br />
 <br />
 <br />
@@ -35,7 +35,7 @@ You can open the terminal application on Linux by either:
 
 #### Windows
 0.  For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).
-1. Once you log into your WSL, you will be automatiaclly put in a terminal.
+1. Once you log into your WSL, you will be automatiaclly put in a terminal. You can open up a window by searching for an opening the app Ubuntu
   <br />
   <br />
   <br />
@@ -60,7 +60,7 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
     (Select the correct installer for **Python 3.8, 64-bit pkg**)
 2. Install miniconda from the downloaded file  
 3. In your terminal, download and change into this repository (ES140X).
-If you followed the above [instruction](#download-this-repository) and put this repository at your home directory, you can change into that folder by  
+If you followed the above [instruction](#Download-this-repository) and put this repository at your home directory, you can change into that folder by  
 `cd ~/ES140X`
 4. If you don’t know how to do this, make sure you watch the video labeled `classroom_walkthrough.mp4` from Brightspace before continuing.
 5. Create and activate a new conda environment by typing in the terminal window:
@@ -73,7 +73,7 @@ If you followed the above [instruction](#download-this-repository) and put this 
 
 #### Linux and Windows (Windows Subsystem for Linux)
 0.   For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).  
-1. Go to this link https://docs.conda.io/en/latest/miniconda.html and select the correct installer for Python 3.8 with 32-bit or 64-bit depends on your computer (use this link if you are unsure https://itsfoss.com/32-bit-64-bit-ubuntu/)
+1. Go to this link https://docs.conda.io/en/latest/miniconda.html and select the **Linux** installer for Python 3.8 with 32-bit or 64-bit depends on your computer (use this link if you are unsure https://itsfoss.com/32-bit-64-bit-ubuntu/). 
 2. Right click on the correct version and select “Copy link address”
 3. Open your terminal and download the file with the copied link  
     `cd $HOME`  
@@ -81,7 +81,16 @@ If you followed the above [instruction](#download-this-repository) and put this 
 4. Once the downloads finish, type `ls` and make sure you can identify the downloaded file (should look something like “Miniconda3-***-Linux-x86_**.sh”) , then   
     `bash <The file you just download>`
 5. Restart your kernel and type `conda --version` to make sure the installation finishes. 
-6. Follow the same instruction for MacOS starting from step 3.
+6. In your terminal, download and change into this repository (ES140X).
+If you followed the above [instruction](#Download-this-repository) and put this repository at your home directory, you can change into that folder by  
+`cd ~/ES140X`
+7. If you don’t know how to do this, make sure you watch the video labeled `classroom_walkthrough.mp4` from Brightspace before continuing.
+8. Create and activate a new conda environment by typing in the terminal window:
+    `conda env create -f environment.yml`  
+    If prompted you may need to update your conda environment and rerun the above commands.
+9. When the command has successfully executed then type:  
+    `conda activate class37`   
+**Note:** You will need this command whenever starting up a new terminal to access the class materias
   <br />
   <br />
   <br />
