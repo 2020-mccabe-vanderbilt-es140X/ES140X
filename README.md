@@ -21,14 +21,16 @@ Zoom can be found in Brightspace
 
 ## [Before coming to class](instructions/create_github_account.md)
 
-We strongly encourage every students to create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in the header. 
+Students should create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in the header. 
+<br>
 
 
 ## [Set up your computers](instructions/set_up_your_computers.md)
-
+Complete these instructions after your first class (10/28). **note that this can take some time, so start earlier to catch bugs and get help from your TA**
 To effectively participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
 The Anaconda environment will help manage all the softwares used in this course.
 The detailed instructions for those can be found by following the link in the header.
+
 
 ## Lectures
 
@@ -37,24 +39,24 @@ The link to this course's Zoom classrooms can be found in Brightspace.
 |                       | Date | Lecture | HW | HW Due |
 | :--------------- |:-------:|:----------:|:------:|:-----------:|
 | **Week 1**     |         |**Introduction**|         |               |
-| Class 1          | 8/24 | Jupyter notebook and Python | HW1 |               |
-| Class 2          | 8/26 | Setup your machine |         |               |
-| Class 3          | 8/28 | Python practices | HW2 | HW1 |
+| Class 1          | 10/28 | Intro to Jupyter notebook and Python | HW1 |               |
+| Class 2          | 10/30 | Python practices and examples|         |               |
 | **Week 2**     |         | **Intro to Thermodynamics**|         |               |
-| Class 4          | 8/31 | Ideal gas law |         |               |
-| Class 5          | 9/02 | Non-ideal gases |         |               |
-| Class 6          | 9/04 | Solids, liquids, and gases  | HW3 | HW2 |
+| Class 3          | 11/02 | Ideal gas law |         |               |
+| Class 4          | 11/04 | Non-ideal gases |         |               |
+| Class 5          | 11/06 | Solids, liquids, and gases  | HW2 | HW1 |
 | **Week 3**     |         | **In-person classes** |         |               | 
-| Class 7          | 9/07 |              |         |               |
-| Class 8          | 9/09 |              |         |               |
-| Class 9          | 9/11 |              |         |               |
+| Class 6          | 11/09 |              |         |               |
+| Class 7          | 11/11 |              |         |               |
+| Class 8          | 11/13 |              |  HW3       |    HW2     |
 | **Week 4**     |         | **Intro to Reaction Engineering** |         |               | 
-| Class 10         | 9/14 | Kinetics |         |               |
-| Class 11         | 9/16 | Reaction rates and equilibria |         |               |
-| Class 12         | 9/18 | Mass and energy transport |         |               |
+| Class 9          | 11/16 | Kinetics |         |               |
+| Class 10         | 11/18 | Reaction rates and equilibria |         |               |
+| Class 11         | 11/20 | Multiple reactions |     HW4    |       HW3        |
 | **Week 5**     |         | **Applications** |         |               |
-| Class 13         | 9/21 | Polymers |         |               |
-| Class 14         | 9/23 | Phase Separation and Self Assembly|         |               |
+| Class 12         | 11/30 | Chemical engineering student panel |         |               |
+| Class 13         | 12/02 | Polymers|         |               |
+| Class 14         | 12/04 | Phase Separation and Self Assembly|         |     HW4       |
 
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics:  
