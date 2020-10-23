@@ -64,7 +64,7 @@ If you followed the above [instruction](#Download-this-repository) and put this 
 
 1. Follow the link that will be sent out through email to a specific assignment. Accept the assignment, and let a copy be made to your GitHub account.  <br/>  <br/>
 **Note** from time to time, accepting the assignment will work, but the green bar will not complete and notify you that your copy is ready. Don't worry about it, as soon as you hit accept, the assignment will be available to you. Exit from that browser window, and in a new one navigate to your GitHub account. Under the 2020-mccabe-vanderbilt-es140X classroom, you should be able to find all of your assignments. It can be found from your GitHub homepage, in the left column under organizations. 
-2. Once on your repositories GitHub page, look for a large green button with **Code** in white letters. Click on it to open a drop down box, and copy the URL that is there. 
+2. Once on your repositories GitHub page, look for a large green button with **Code** in white letters. Click on it to open a drop down box, and copy the URL that is there.  <br/>
 3. In a terminal window, use the `cd` command to navigate to the ES1403_class directory. It should be located at ~/ES1403_class.
 4. Run the following command: `git clone the-url-you-just-copied`. This will make a local copy of the repository at GitHub.com. 
 **MAKE SURE YOU ARE NOT IN THE ES140X DIRECTORY WHEN YOU CLONE A NEW REPOSITORY. JUST CLONE IT TO THE ES1403_class DIRECTORY.**
