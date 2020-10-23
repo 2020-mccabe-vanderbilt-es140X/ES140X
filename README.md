@@ -36,6 +36,19 @@ To participate in this class effectively, students will also need to create set 
 The Anaconda environment will help manage all the softwares used in this course.
 The detailed instructions for those can be found by following the link in the header.
 
+## [Install Etomica]
+Complete these instructions after your first class (10/28). <br/>
+[Mac Users](instructions/install_etomica_MacOS.md) <br/>
+[Windows and Linux Users](instructions/install_etomica_Windows.md) <br/>
+
+We will run some simulations using a learning module called etomica developed from the University of Buffalo. Here is a link to the website if you're curious about what it can do http://www.etomica.org/app/modules/
+
+## [Install VMD]
+Complete these instructions after your first class (10/28). <br/>
+[Mac Users](instructions/install_VMD_MacOS.md) <br/>
+[Windows and Linux Users](instructions/install_VMD_Windows.md) <br/>
+
+VMD is a molecular visualization software. We can use it to look at simulation data as a video editing software. We're going to use this to visualize some of the complex behavior found in polymers. More information can be found at https://www.ks.uiuc.edu/Research/vmd/
 
 ## Lectures
 
