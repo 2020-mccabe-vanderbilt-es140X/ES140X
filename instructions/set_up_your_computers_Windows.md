@@ -64,10 +64,10 @@ You can open the terminal application on Linux by either:
 ## Download this repository
 
 This repository contains software and files neccessary for activities in this class, so we ask you to download this repository and put it in a location convienient for later reference. We recommend you put it in your home directory using the commands below:  
-`cd $HOME`  
-`mkdir ES1403_class`
-`cd ES1403_class`
-`git clone https://github.com/2020-mccabe-vanderbilt-es140X/ES140X.git`
+`cd $HOME`   <br/>
+`mkdir ES1403_class`  <br/>
+`cd ES1403_class`  <br/>
+`git clone https://github.com/2020-mccabe-vanderbilt-es140X/ES140X.git` <br/>
 <br />
 <br />
 <br />
@@ -103,10 +103,10 @@ If you followed the above [instruction](#Download-this-repository) and put this 
 
 ## Access an assignment or class in Jupyter
 
-1. Follow the link that will be sent out through email to a specific assignment. Accept the assignment, and let a copy be made to your GitHub account. 
+1. Follow the link that will be sent out through email to a specific assignment. Accept the assignment, and let a copy be made to your GitHub account.  <br/>  <br/>
 **Note** from time to time, accepting the assignment will work, but the green bar will not complete and notify you that your copy is ready. Don't worry about it, as soon as you hit accept, the assignment will be available to you. Exit from that browser window, and in a new one navigate to your GitHub account. Under the 2020-mccabe-vanderbilt-es140X classroom, you should be able to find all of your assignments. It can be found from your GitHub homepage, in the left column under organizations. 
 2. Once on your repositories GitHub page, look for a large green button with **Code** in white letters. Click on it to open a drop down box, and copy the URL that is there. 
-3. In a terminal window, use the `cd` command to navigate to the ES1403_class directory. It should be located at ~/ES1403_class.
+3. In a terminal window, use the `cd` command to navigate to the ES1403_class directory. It should be located at `~/ES1403_class`.
 4. Run the following command: `git clone the-url-you-just-copied`. This will make a local copy of the repository at GitHub.com. 
 **MAKE SURE YOU ARE NOT IN THE ES140X DIRECTORY WHEN YOU CLONE A NEW REPOSITORY. JUST CLONE IT TO THE ES1403_class DIRECTORY.**
 Use `pwd` to check what directory you currently are in.
@@ -115,5 +115,5 @@ Use `pwd` to check what directory you currently are in.
 7. Type `jupyter notebook` into your terminal
 8. The jupyter notebook will be open as one tab in your default browser  
 If this doesn't occur automatically, look a the output from your jupyter notebook command. You should see a web link that looks something like `http://localhost:8888/?token=fd014533bc5780c313dfd1803838a89c6a90cdcd75d0cb2b` Copy that link by highlighting it and using ctrl-c. Then, paste the link into the web browser of your choice. We recommend Google Chrome.
-9. Click on folders to navigate through them, or on files to open them. Text files will open with a built in text editor. Jupyter notebook files have the extension .ipynb. These are the files where you execute python code, and where we'll run are assignments from.
+9. Click on folders to navigate through them, or on files to open them. Text files will open with a built in text editor. Jupyter notebook files have the extension .ipynb. These are the files where you execute python code, and where we'll run our assignments from.
 
