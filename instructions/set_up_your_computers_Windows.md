@@ -54,7 +54,7 @@ You can open the terminal application on Linux by either:
 2. Search for “terminal” 
 
 #### Windows
-0.  For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up windows-subsystems-for-linux).
+0.  For Windows users, make sure you have set up the Windows Subsystem for Linux (WSL) for your machine. If not, you can follow the instruction [here](#set-up-windows-subsystems-for-linux).
 1. Once you log into your WSL, you will be automatiaclly put in a terminal. You can open up a window by searching for and opening the app Ubuntu.
   <br />
   <br />
