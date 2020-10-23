@@ -25,7 +25,7 @@ Students should create a GitHub account (if you do not have one already) and the
 <br/>
 
 
-## [Set up your computers]
+## Set up your computers
 Complete these instructions after your first class (10/28). <br/>
 [Mac Users](instructions/set_up_your_computers_MacOS.md) <br/>
 [Windows and Linux Users](instructions/set_up_your_computers_Windows.md) <br/>
@@ -36,14 +36,14 @@ To participate in this class effectively, students will also need to create set 
 The Anaconda environment will help manage all the softwares used in this course.
 The detailed instructions for those can be found by following the link in the header.
 
-## [Install Etomica]
+## Install Etomica
 Complete these instructions after your first class (10/28). <br/>
 [Mac Users](instructions/install_etomica_MacOS.md) <br/>
 [Windows and Linux Users](instructions/install_etomica_Windows.md) <br/>
 
 We will run some simulations using a learning module called etomica developed from the University of Buffalo. Here is a link to the website if you're curious about what it can do http://www.etomica.org/app/modules/
 
-## [Install VMD]
+## Install VMD
 Complete these instructions after your first class (10/28). <br/>
 [Mac Users](instructions/install_VMD_MacOS.md) <br/>
 [Windows and Linux Users](instructions/install_VMD_Windows.md) <br/>
