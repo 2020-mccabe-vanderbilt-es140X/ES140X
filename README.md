@@ -26,9 +26,10 @@ Students should create a GitHub account (if you do not have one already) and the
 
 
 ## [Set up your computers]
+Complete these instructions after your first class (10/28). <br/>
 [Mac Users](instructions/set_up_your_computers_MacOS.md) <br/>
 [Windows and Linux Users](instructions/set_up_your_computers_Windows.md) <br/>
-Complete these instructions after your first class (10/28). <br/>
+
 **Be aware that this can take some time, so start earlier to catch bugs and get help from your TA** <br/>
 
 To participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
