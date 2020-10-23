@@ -4,13 +4,13 @@
 
 2. Under version 1.9.4, click on MacOS X Catalina OpenGL (64-bit Intel x86_64)
 
-a. If you have 10.14 or earlier as your MacOS, download the 32 bit installation under version 1.9.3 MacOS X OpenGL (32-bit Intel x86)
+  a. If you have 10.14 or earlier as your MacOS, download the 32 bit installation under version 1.9.3 MacOS X OpenGL (32-bit Intel x86)
 
 3. Create an account with VMD. Follow the instructions on their website until you download the file.
 
-a. Download the most recent VMD 1.9.4a43 Rev 6 for MacOS X Catalina
+  a. Download the most recent VMD 1.9.4a43 Rev 6 for MacOS X Catalina
 
-b. The file you download should be called vmd194a43-MACOSX-Catalinaonly-Rev6.dmg. This is not the case if you downloaded 1.9.3. It will be named vmd193mac86nocuda.dmg
+  b. The file you download should be called vmd194a43-MACOSX-Catalinaonly-Rev6.dmg. This is not the case if you downloaded 1.9.3. It will be named vmd193mac86nocuda.dmg
 
 4. Open up this file by double clicking it in the downloads folder of Finder.
 
