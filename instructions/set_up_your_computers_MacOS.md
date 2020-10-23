@@ -31,10 +31,10 @@ You can open the terminal application on MacOS by either:
 ## Download this repository
 
 This repository contains software and files neccessary for activities in this class, so we ask you to download this repository and put it in a location convienient for later reference. We recommend you put it in your home directory using the commands below:  
-`cd $HOME`  
-`mkdir ES1403_class`
-`cd ES1403_class`
-`git clone https://github.com/2020-mccabe-vanderbilt-es140X/ES140X.git`
+`cd $HOME`  <br/>
+`mkdir ES1403_class` <br/>
+`cd ES1403_class` <br/>
+`git clone https://github.com/2020-mccabe-vanderbilt-es140X/ES140X.git` <br/>
 <br />
 <br />
 <br />
