@@ -15,5 +15,6 @@ dependencies:
   - traitlets
   - pathlib
   - ipywidgets
+  - hoomd
   - pip:
     - chempy
