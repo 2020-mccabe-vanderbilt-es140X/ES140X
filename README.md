@@ -70,11 +70,11 @@ The link to this course's Zoom classrooms can be found in Brightspace.
 | **Week 4**     |         | **Intro to Reaction Engineering** |         |               | 
 | Class 9          | 11/16 | Kinetics |         |               |
 | Class 10         | 11/18 | Reaction rates and equilibria |         |               |
-| Class 11         | 11/20 | Multiple reactions |     HW4    |       HW3        |
+| Class 11         | 11/20 | Chemical engineering student panel |     HW4    |       HW3        |
 | **Week 5**     |         | **Applications** |         |               |
-| Class 12         | 11/30 | Chemical engineering student panel |         |               |
-| Class 13         | 12/02 | Polymers|         |               |
-| Class 14         | 12/04 | Phase Separation and Self Assembly|         |     HW4       |
+| Class 12         | 11/30 | Polymers |         |               |
+| Class 13         | 12/02 |Phase Separation and Self Assembly |         |             |
+| Class 14         | 12/04 | Class Wrap-Up|         |       HW4     |
 
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics:  
