@@ -9,5 +9,5 @@ Please note that you should input your personal computer's username in place of 
 4. To confirm whether or not your install worked  : <br/>
 	Click on the folder to open it up  <br/>
 	Click on the folder labeld **bin** <br/>
-	Click on any of the files with the extension **.bar**. This will open up the simulation applet.
+	Click on any of the files with the extension **.bat**. This will open up the simulation applet.
 5. If this doesn't work for you, contact a TA asap because these will be used throughout the class. 
